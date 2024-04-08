@@ -23,7 +23,7 @@
     "@typescript-eslint/parser": "^5.40.0",
     "@vercel/ncc": "^0.34.0",
     "ava": "^4.3.3",
-    "eslint": "^8.25.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard-with-typescript": "^23.0.0",
     "eslint-plugin-escompat": "^3.3.3",
